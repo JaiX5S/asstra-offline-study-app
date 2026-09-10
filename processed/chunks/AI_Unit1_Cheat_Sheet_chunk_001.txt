@@ -1,0 +1,24 @@
+AI UNIT 1 - EXAM CHEAT SHEET
+1. Introduction to AI
+AI = machines that think, learn, and make decisions like humans.
+History: 1956 Dartmouth Conference, Expert Systems (1980s), ML (2000s), Deep Learning (today).
+Applications: Healthcare, Finance, Education, Gaming, NLP, Robotics.
+2. Propositional Logic
+Uses symbols P, Q, R with operators AND, OR, NOT, IMPLIES.
+Example: P → Q (If P then Q).
+3. First Order Predicate Logic (FOPL)
+Uses predicates, variables, and quantifiers.
+Example: ∀x Human(x) → Mortal(x).
+4. Clausal Form Steps
+1. Remove implication 2. Move NOT inward 3. Standardize variables 4. Convert to CNF 5. Remove
+universal quantifiers.
+5. Inference Rules
+Modus Ponens: If P → Q and P is true, then Q.
+Modus Tollens: If P → Q and Q is false, then P is false.
+6. Resolution & Unification
+Resolution: Prove by contradiction using clauses.
+Unification: Make two expressions identical. Example: {x=Shyam, y=Ram}.
+7. Knowledge Representation
+Network: Graph with nodes and links.
+Frames: Objects with attributes (slots).
+Scripts: Sequence of events (e.g., restaurant process).

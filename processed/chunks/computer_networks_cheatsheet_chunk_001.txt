@@ -1,0 +1,70 @@
+COMPUTER NETWORKS CHEAT SHEET
+
+BASICS
+Topology: Layout of network (star, bus, ring).
+LAN/MAN/WAN: Small, city, large/global networks.
+Point-to-Point vs Broadcast: One-to-one vs one-to-all.
+
+DATA COMMUNICATION
+Components: Sender, Receiver, Message, Medium, Protocol.
+Modes: Simplex, Half-duplex, Full-duplex.
+Media: Guided (wired), Wireless (air).
+
+SWITCHING
+Circuit: Fixed path, reserved.
+Packet: Data split, dynamic path.
+Message: Full message, slow.
+
+MULTIPLEXING
+Multiplexing: Many signals one channel.
+FDM/TDM/WDM: Frequency, Time, Light.
+Modem: Digital ↔ Analog.
+
+ARCHITECTURE
+Protocol: Rules of communication.
+Service: Layer functionality.
+OSI: 7 layers.
+TCP/IP: 4 layers.
+
+TCP/UDP/IP
+TCP: Reliable, slow.
+UDP: Fast, no guarantee.
+IP: Addressing + routing.
+
+DATA LINK
+Framing: Divide into frames.
+Error Detection/Correction: CRC, Hamming.
+ACK: Confirmation.
+Sliding Window: Multiple frames.
+
+Token Bus/Ring: Controlled access.
+
+CONTROL
+Flow Control: Sender vs receiver speed.
+Multiple Access: Shared medium.
+
+CONGESTION
+Congestion Control: Avoid overload.
+Traffic Shaping: Control rate.
+Choke Packet: Reduce speed.
+Load Shedding: Drop packets.
+
+ROUTING
+Routing: Path finding.
+Deterministic/Adaptive: Fixed/dynamic.
+Centralized/Distributed: One vs many routers.
+
+ALGORITHMS
+Distance Vector: Neighbor sharing.
+Link State: Full network view.
+Path Vector: Full path.
+
+PROTOCOLS
+RIP: Simple.
+OSPF: Fast.
+BGP: Internet.
+
+MULTICAST
+Multicast: One to many.
+Address: Group IP.
+Routing: Efficient

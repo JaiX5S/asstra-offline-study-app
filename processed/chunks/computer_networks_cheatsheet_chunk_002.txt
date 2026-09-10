@@ -1,0 +1,14 @@
+or: Neighbor sharing.
+Link State: Full network view.
+Path Vector: Full path.
+
+PROTOCOLS
+RIP: Simple.
+OSPF: Fast.
+BGP: Internet.
+
+MULTICAST
+Multicast: One to many.
+Address: Group IP.
+Routing: Efficient delivery.
+Protocols: DVMRP, MOSPF, PIM.
